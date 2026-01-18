@@ -1,0 +1,8 @@
+# Core dependencies
+maxapi-python>=1.2.5
+
+# Environment variable management
+python-dotenv>=1.2.1
+
+# Type checking (development)
+mypy>=1.19.1
